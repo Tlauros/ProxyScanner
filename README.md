@@ -1,5 +1,5 @@
 # Proxy Scanner v1.0.0 (Free Edition) 🚀 
-### By TDEV[ 
+### By TDEV
 ### Discord : https://discord.gg/NCm8CmPE
 Welcome to **Proxy Scanner Free** – a lightweight, fast, and easy-to-use tool to test HTTP and HTTPS proxies! Whether you're a developer, a web scraper, or just curious about proxy performance, this tool has got you covered. It checks proxies in parallel with multi-threading for blazing speed! ⚡
 
@@ -39,6 +39,7 @@ The Free Edition is awesome, but the Pro Edition takes it to the next level:
   - Graphical User Interface (GUI)
   - Advanced filtering (by country, speed, etc.)
   - One-time payment: $10.99
+  - Have API optimise
   - Get it here: Link to Pro (coming soon!)
 
 
